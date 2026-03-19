@@ -1,0 +1,3 @@
+venv\Scripts\activate: để kích hoạt môi trường ảo
+thay đổi API trong file .env
+chọn model ai bằng cách chạy file check_modelAI.py
